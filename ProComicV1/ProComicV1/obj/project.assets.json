@@ -13265,11 +13265,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\metal\\Downloads\\Nueva carpeta\\ProComicV1\\ProComicV1\\ProComicV1.csproj",
+      "projectUniqueName": "C:\\Users\\metal\\Documents\\GitHub\\ProComic\\ProComicV1\\ProComicV1\\ProComicV1.csproj",
       "projectName": "ProComicV1",
-      "projectPath": "C:\\Users\\metal\\Downloads\\Nueva carpeta\\ProComicV1\\ProComicV1\\ProComicV1.csproj",
+      "projectPath": "C:\\Users\\metal\\Documents\\GitHub\\ProComic\\ProComicV1\\ProComicV1\\ProComicV1.csproj",
       "packagesPath": "C:\\Users\\metal\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\metal\\Downloads\\Nueva carpeta\\ProComicV1\\ProComicV1\\obj\\",
+      "outputPath": "C:\\Users\\metal\\Documents\\GitHub\\ProComic\\ProComicV1\\ProComicV1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
