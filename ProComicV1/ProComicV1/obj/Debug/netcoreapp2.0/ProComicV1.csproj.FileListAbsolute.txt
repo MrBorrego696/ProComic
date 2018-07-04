@@ -1,0 +1,12 @@
+C:\Users\metal\Downloads\Nueva carpeta\ProComicV1\ProComicV1\bin\Debug\netcoreapp2.0\ProComicV1.deps.json
+C:\Users\metal\Downloads\Nueva carpeta\ProComicV1\ProComicV1\bin\Debug\netcoreapp2.0\ProComicV1.runtimeconfig.json
+C:\Users\metal\Downloads\Nueva carpeta\ProComicV1\ProComicV1\bin\Debug\netcoreapp2.0\ProComicV1.runtimeconfig.dev.json
+C:\Users\metal\Downloads\Nueva carpeta\ProComicV1\ProComicV1\bin\Debug\netcoreapp2.0\ProComicV1.dll
+C:\Users\metal\Downloads\Nueva carpeta\ProComicV1\ProComicV1\bin\Debug\netcoreapp2.0\ProComicV1.pdb
+C:\Users\metal\Downloads\Nueva carpeta\ProComicV1\ProComicV1\obj\Debug\netcoreapp2.0\ProComicV1.csprojAssemblyReference.cache
+C:\Users\metal\Downloads\Nueva carpeta\ProComicV1\ProComicV1\obj\Debug\netcoreapp2.0\ProComicV1.csproj.CoreCompileInputs.cache
+C:\Users\metal\Downloads\Nueva carpeta\ProComicV1\ProComicV1\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\metal\Downloads\Nueva carpeta\ProComicV1\ProComicV1\obj\Debug\netcoreapp2.0\ProComicV1.AssemblyInfoInputs.cache
+C:\Users\metal\Downloads\Nueva carpeta\ProComicV1\ProComicV1\obj\Debug\netcoreapp2.0\ProComicV1.AssemblyInfo.cs
+C:\Users\metal\Downloads\Nueva carpeta\ProComicV1\ProComicV1\obj\Debug\netcoreapp2.0\ProComicV1.dll
+C:\Users\metal\Downloads\Nueva carpeta\ProComicV1\ProComicV1\obj\Debug\netcoreapp2.0\ProComicV1.pdb

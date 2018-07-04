@@ -1,0 +1,32 @@
+﻿body {
+    background-color: #A9A9F5;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    image-resolution: 0.6px;
+}
+
+img {
+    position: relative;
+    margin: 0 auto;
+    width: 220px;
+    height: 150px;
+}
+
+    img:hover {
+        position: relative;
+        margin: 0 auto;
+        width: 220px;
+        height: 150px;
+        opacity: 0.5;
+        filter: alpha(opacity=50);
+    }
+
+h1 {
+    font-family: 'Kristen ITC';
+}
+h2 {
+    font-family: 'Comic Sans MS';
+}
+h3{
+    font-family:'Goudy Old Style';
+}
